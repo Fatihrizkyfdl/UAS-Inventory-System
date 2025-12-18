@@ -24,4 +24,4 @@ Dibuat untuk memenuhi Tugas Besar / UAS Mata Kuliah Logika Pemrograman.
 
 1. **Clone Repository ini**
    ```bash
-   git clone [https://github.com/USERNAME_KAMU/UAS-Inventory-System.git](https://github.com/USERNAME_KAMU/UAS-Inventory-System.git)
+   git clone [https://github.com/Fatihrizkyfdl/UAS-Inventory-System.git](https://github.com/Fatihrizkyfdl/UAS-Inventory-System.git)
